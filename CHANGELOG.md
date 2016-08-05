@@ -1,3 +1,6 @@
+## 1.4.0 (2016-08-05)
+Added Set: Steam Siege
+
 ## 1.3.3 (2016-07-28)
 Fixes #8 - Incorrect release date for EX - Sandstorm
 
