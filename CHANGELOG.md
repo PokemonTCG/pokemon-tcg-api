@@ -1,3 +1,6 @@
+## 1.4.1 (2016-09-01)
+Standard Legal update for 2017 rotation.
+
 ## 1.4.0 (2016-08-05)
 Added Set: Steam Siege
 
