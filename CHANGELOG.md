@@ -1,3 +1,10 @@
+## 1.5.0 (2016-09-05)
+All cards with a supertype of Pokemon that were previously missing the "types" field have all been corrected.
+
+New field added: ancientTrait
+
+Sample card with an ancientTrait: https://api.pokemontcg.io/v1/cards/xy5-77
+
 ## 1.4.1 (2016-09-01)
 Standard Legal update for 2017 rotation.
 
