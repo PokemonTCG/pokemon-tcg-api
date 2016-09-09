@@ -1,4 +1,4 @@
-Discord Server - [Pokémon Trading Card Game Developers](https://discord.gg/dpsTCvg)
+[![pokemontcg-developers on discord](https://img.shields.io/badge/discord-pokemontcg--developers-738bd7.svg)](https://discord.gg/dpsTCvg)
 
 Please submit all issues for the PokemonTCG API here.
 
