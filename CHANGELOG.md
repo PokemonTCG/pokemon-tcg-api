@@ -12,7 +12,7 @@
 Examples:
 
 ```
-Link: <http://api.pokemontcg.io/v1/cards?page=82>; rel="last", <http://api.magicthegathering.io/v1/cards?page=2>; rel="next"
+Link: <https://api.pokemontcg.io/v1/cards?page=82>; rel="last", <https://api.pokemontcg.io/v1/cards?page=2>; rel="next"
 Page-Size: 100
 Count: 100
 Total-Count: 8190
