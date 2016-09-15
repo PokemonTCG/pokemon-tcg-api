@@ -1,3 +1,11 @@
+## 1.6.1 (2016-09-14)
+Can now filter on abilities via the following URL parameters:
+
+- abilityName
+- abilityText
+
+Example: `https://api.pokemontcg.io/v1/cards?abilityName=irritating%20pollen`
+
 ## 1.6.0 (2016-09-14)
 - Minor performance improvements
 - Multiple new response headers added:
