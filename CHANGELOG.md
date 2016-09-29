@@ -1,3 +1,12 @@
+## 1.6.2 (2016-09-28)
+The __ability__ field now has a __type__ property. The type will either be Pokemon Power, Poke-Power, Poke-Body, or Ability.
+
+Can now filter on the ability type field via the following URL parameter:
+
+- abilityType
+
+Multiple fixes for baby pokemon found in the ecard and neo sets, including updating their supertype to Pokemon, and adding the missing text field about baby pokemon.
+
 ## 1.6.1 (2016-09-14)
 Can now filter on abilities via the following URL parameters:
 
