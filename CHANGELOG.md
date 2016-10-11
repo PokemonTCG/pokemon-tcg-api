@@ -1,3 +1,8 @@
+## 1.6.3 (2016-10-10)
+Adds ability to filter on cards that contain a specific field (addresses issue #17).
+
+For example: `https:api.pokemontcg.io/v1/cards?contains=ancientTrait`
+
 ## 1.6.2 (2016-09-28)
 The __ability__ field now has a __type__ property. The type will either be Pokemon Power, Poke-Power, Poke-Body, or Ability.
 
