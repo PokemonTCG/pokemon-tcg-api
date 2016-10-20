@@ -1,3 +1,10 @@
+## 1.6.4 (2016-10-20)
+Added missing Shiny Legends (SL) from Call of Legends.
+
+Example:
+
+https://api.pokemontcg.io/v1/cards/col1-SL1
+
 ## 1.6.3 (2016-10-10)
 Adds ability to filter on cards that contain a specific field (addresses issue #17).
 
