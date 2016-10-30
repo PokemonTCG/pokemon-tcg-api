@@ -1,3 +1,7 @@
+## 1.6.5 (2016-10-30)
+Added missing set: Base Set 2 (base4). Please note, the card images are currently utilizing those from Base and Jungle.
+Fixed over 250 cards with a supertype of Pokemon that had a missing nationalPokedexNumber.
+
 ## 1.6.4 (2016-10-20)
 Added the following missing cards:
 - Shiny Legends (SL) from Call of Legends.
