@@ -1,12 +1,18 @@
-## 1.6.7 (2016-10-31)
-- POP Series 2 - 9 all added
-
 ## 1.6.6 (2016-10-30)
-- Added images for Base Set 2
-- Added POP Series 1
+The following sets have been added:
+- POP Series 1
+- POP Series 2
+- POP Series 3
+- POP Series 4
+- POP Series 5
+- POP Series 6
+- POP Series 7
+- POP Series 8
+- POP Series 9
+- Wizards Black Star Promos
 
 ## 1.6.5 (2016-10-30)
-- Added missing set: Base Set 2 (base4). Please note, the card images are currently utilizing those from Base and Jungle.
+- Added missing set: Base Set 2 (base4).
 - Fixed over 250 cards with a supertype of Pokemon that had a missing nationalPokedexNumber.
 
 ## 1.6.4 (2016-10-20)
