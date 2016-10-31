@@ -1,3 +1,6 @@
+## 1.6.7 (2016-10-31)
+- POP Series 2 - 9 all added
+
 ## 1.6.6 (2016-10-30)
 - Added images for Base Set 2
 - Added POP Series 1
