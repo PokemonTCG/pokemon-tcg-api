@@ -1,9 +1,10 @@
 ## 1.6.6 (2016-10-30)
-Added images for Base Set 2
+- Added images for Base Set 2
+- Added POP Series 1
 
 ## 1.6.5 (2016-10-30)
-Added missing set: Base Set 2 (base4). Please note, the card images are currently utilizing those from Base and Jungle.
-Fixed over 250 cards with a supertype of Pokemon that had a missing nationalPokedexNumber.
+- Added missing set: Base Set 2 (base4). Please note, the card images are currently utilizing those from Base and Jungle.
+- Fixed over 250 cards with a supertype of Pokemon that had a missing nationalPokedexNumber.
 
 ## 1.6.4 (2016-10-20)
 Added the following missing cards:
