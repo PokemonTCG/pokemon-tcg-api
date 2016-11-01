@@ -1,3 +1,6 @@
+## 1.7.0 (2016-10-31)
+New expansion released - Evolutions (xy12)
+
 ## 1.6.6 (2016-10-30)
 The following sets have been added:
 - POP Series 1
