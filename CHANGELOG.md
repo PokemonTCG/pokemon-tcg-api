@@ -1,3 +1,8 @@
+## 1.7.1 (2016-11-14)
+Two new query parameters added:
+- attackName
+- attackText
+
 ## 1.7.0 (2016-10-31)
 New expansion released - Evolutions (xy12)
 
