@@ -1,3 +1,23 @@
+## 1.7.2 (2016-12-29)
+New field on the Sets resource (`https://api.pokemontcg.io/v1/sets`): expandedLegal
+
+Secret rares and misc missing cards have been added for the following sets:
+- Dragons Exalted
+- Boundaries Crossed
+- Plasma Storm
+- Noble Victories
+- Dark Explorers
+- Plasma Freeze
+- Legendary Treasures
+- XY
+- Flashfire
+- Furious Fists
+- Roaring Skies
+- Ancient Origins
+- Breakthrough
+- Breakpoint
+- Steam Siege
+
 ## 1.7.1 (2016-11-14)
 Two new query parameters added:
 - attackName
