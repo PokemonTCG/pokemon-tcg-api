@@ -1,3 +1,8 @@
+## 1.7.3 (2017-01-03)
+- Can now filter on the expandedLegal parameter.
+- XY Black Star Promos standard legal
+- BW Black Star Promos not standard legal
+
 ## 1.7.2 (2016-12-29)
 New field on the Sets resource (`https://api.pokemontcg.io/v1/sets`): expandedLegal
 
