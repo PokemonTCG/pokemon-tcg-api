@@ -1,3 +1,19 @@
+## 1.7.4 (2017-01-03)
+Fixed naming of EX cards in BW Black Star Promos
+
+Secret rares and misc missing cards have been added for the following sets:
+- Arceus
+- Delta Species
+- Holon Phantoms
+- Legend Maker
+- Mysterious Treasures
+- Plasma Blast
+- Platinum
+- Rising Rivals
+- Stormfront
+- Supreme Victors
+- Unseen Forces
+
 ## 1.7.3 (2017-01-03)
 - Can now filter on the expandedLegal parameter.
 - XY Black Star Promos standard legal
