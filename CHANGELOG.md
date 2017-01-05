@@ -1,3 +1,6 @@
+## 1.7.5 (2017-01-04)
+nationalPokedexNumber query parameter now supports a list
+
 ## 1.7.4 (2017-01-03)
 Fixed naming of EX cards in BW Black Star Promos
 
