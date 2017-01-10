@@ -1,3 +1,14 @@
+## 1.7.6 (2017-01-09)
+Fixed the national pokedex number on the following:
+
+- 47 - Parasect
+- 141 - Kabutops
+- 233 - Porygon2
+- 474 - Porygon-Z
+- 601 - Klinklang
+
+Also added a missing attack for xyp-XY97.
+
 ## 1.7.5 (2017-01-04)
 nationalPokedexNumber query parameter now supports a list
 
