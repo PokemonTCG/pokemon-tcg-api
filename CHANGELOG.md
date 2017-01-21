@@ -1,3 +1,6 @@
+## 1.7.7 (2016-01-21)
+Fixes #35. BW Black Star Promos series is now Black & White instead of BW
+
 ## 1.7.6 (2017-01-09)
 Fixed the national pokedex number on the following:
 
