@@ -1,3 +1,7 @@
+## 1.8.0 (2017-02-03)
+- Sun & Moon Released.
+- Fixes #37
+
 ## 1.7.7 (2016-01-21)
 Fixes #35. BW Black Star Promos series is now Black & White instead of BW
 
