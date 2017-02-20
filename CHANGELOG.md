@@ -1,3 +1,6 @@
+## 1.9.0 (2017-02-20)
+Hi-res images added via `imageUrlHiRes` field.
+
 ## 1.8.0 (2017-02-03)
 - Sun & Moon Released.
 - Fixes #37
