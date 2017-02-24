@@ -1,3 +1,6 @@
+## 1.9.1 (2017-02-23)
+- SM Black Star Promos Added (smp)
+
 ## 1.9.0 (2017-02-20)
 Hi-res images added via `imageUrlHiRes` field.
 
