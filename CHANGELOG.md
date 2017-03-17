@@ -1,3 +1,6 @@
+## 1.9.2 (2017-03-16)
+Bug fix for #46 and #47
+
 ## 1.9.1 (2017-02-23)
 - SM Black Star Promos Added (smp)
 
