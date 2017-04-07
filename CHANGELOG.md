@@ -1,5 +1,6 @@
 ## 1.9.3 (2017-04-06)
-Added `evolvesFrom` field.
+- Added `evolvesFrom` field.
+- Added missing attacks field for XYP-XY102
 
 ## 1.9.2 (2017-03-16)
 Bug fix for #46 and #47
