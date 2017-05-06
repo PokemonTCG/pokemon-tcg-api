@@ -1,3 +1,6 @@
+## 1.10.0 (2017-05-06)
+- Guardians Rising added (sm2)
+
 ## 1.9.3 (2017-04-06)
 - Added `evolvesFrom` field.
 - Added missing attacks field for XYP-XY102
