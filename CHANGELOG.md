@@ -1,3 +1,8 @@
+## 1.11.0 (2017-07-17)
+- Multiple performance enhancements
+- Can now filter the sets resource on an exact name
+- nationalPokedexNumber query parameter accepts a list (use logical OR)
+
 ## 1.10.0 (2017-05-06)
 - Guardians Rising added (sm2)
 
