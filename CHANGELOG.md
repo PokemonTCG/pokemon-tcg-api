@@ -1,3 +1,8 @@
+## 1.12.0 (2017-08-05)
+Burning Shadows added (sm3)
+
+Please note that secret rares still have to get added, as well as hi-res images. Rarity will also need to be updated for all cards in the set, as Pokemon.com has apparently removed rarity from their webpages for a given card.
+
 ## 1.11.0 (2017-07-17)
 - Multiple performance enhancements
 - Can now filter the sets resource on an exact name
