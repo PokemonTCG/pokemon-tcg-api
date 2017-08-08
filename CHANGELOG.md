@@ -1,3 +1,6 @@
+## 1.12.1 (2017-08-07)
+Hi-res images for Burning Shadows (sm3) added.
+
 ## 1.12.0 (2017-08-05)
 Burning Shadows added (sm3)
 
