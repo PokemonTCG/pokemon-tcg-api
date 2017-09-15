@@ -1,5 +1,6 @@
 ## 1.12.2 (2017-09-14)
 - Added `ptcgoCode` to sets resource
+- Added `symbolUrl` to sets resource
 
 ## 1.12.1 (2017-08-07)
 Hi-res images for Burning Shadows (sm3) added.
