@@ -1,3 +1,6 @@
+## 1.12.3 (2017-10-09)
+- Additional SMP promos added
+
 ## 1.12.2 (2017-09-14)
 - Added `ptcgoCode` to sets resource
 - Added `symbolUrl` to sets resource
