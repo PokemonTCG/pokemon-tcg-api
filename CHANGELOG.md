@@ -1,3 +1,6 @@
+## 1.13.0 (2017-10-19)
+- Shining Legends added (sm35)
+
 ## 1.12.3 (2017-10-09)
 - Additional SMP promos added
 
