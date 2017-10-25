@@ -1,3 +1,6 @@
+## 1.13.1 (2017-10-25)
+- Added 'logoUrl' to sets resource.
+
 ## 1.13.0 (2017-10-19)
 - Shining Legends added (sm35)
 
