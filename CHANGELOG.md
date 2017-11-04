@@ -1,3 +1,6 @@
+## 1.14.0 (2017-11-3)
+- Crimson Invasion (sm4) added.
+
 ## 1.13.1 (2017-10-25)
 - Added 'logoUrl' to sets resource.
 - Can now query on multiple card ids with the `id` parameter. For example: `https://api.pokemontcg.io/v1/cards?id=xy1-1|xy1-2|xy1-3`
