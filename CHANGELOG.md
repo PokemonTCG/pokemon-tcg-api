@@ -1,3 +1,6 @@
+## 1.14.1 (2017-11-6)
+- Fix PTCGO codes for SM promos and Shining Legends
+
 ## 1.14.0 (2017-11-3)
 - Crimson Invasion (sm4) added.
 
