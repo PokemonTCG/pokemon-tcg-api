@@ -1,3 +1,8 @@
+# 2018-01-15
+All data updates will now be documented in this repository: https://github.com/PokemonTCG/pokemon-tcg-data/releases
+
+Releases relating to the API only will still show up here. That is, bug fixes, additional features, etc.
+
 ## 1.14.1 (2017-11-6)
 - Fix PTCGO codes for SM promos and Shining Legends
 
