@@ -1,3 +1,12 @@
+## 1.14.2 (2018-02-02)
+Filtering on Prism Star cards now supported:
+
+```
+/cards?name=lunala prism
+/cards?name=lunala prism star
+/cards?name=lunala ◇
+```
+
 # 2018-01-15
 All data updates will now be documented in this repository: https://github.com/PokemonTCG/pokemon-tcg-data/releases
 
