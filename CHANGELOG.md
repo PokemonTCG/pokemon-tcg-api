@@ -1,3 +1,17 @@
+## 1.15.0 (2018-02-09)
+Sets now have an `updatedAt` field. This is a timestamp formatted MM/DD/YYYY HH24:MM:SS.
+
+You can filter on sets that have been updated since a certain timestamp with the `updatedSince` query string parameter. Examples are below:
+
+```
+/sets?updatedSince=02-08-2018
+/sets?updatedSince=02/08/2018
+/sets?updatedSince=2-8-2018
+/sets?updatedSince=2/8/2018
+/sets?updatedSince=02-08-2018 10:00:00
+/sets?updatedSince=2/8/2018 15:30:00
+```
+
 ## 1.14.2 (2018-02-02)
 Filtering on Prism Star cards now supported:
 
