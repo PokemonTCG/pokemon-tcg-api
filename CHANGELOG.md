@@ -1,3 +1,6 @@
+## 1.16.0 (2018-03-04)
+Cards now have a `convertedRetreatCost` field.
+
 ## 1.15.0 (2018-02-09)
 Sets now have an `updatedAt` field. This is a timestamp formatted MM/DD/YYYY HH24:MM:SS.
 
