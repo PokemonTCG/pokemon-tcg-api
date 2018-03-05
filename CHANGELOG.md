@@ -1,3 +1,6 @@
+## 1.16.1 (2018-03-04)
+Bug fix for #72. Filtering on attack damage + cost.
+
 ## 1.16.0 (2018-03-04)
 Cards now have a `convertedRetreatCost` field.
 
